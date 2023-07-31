@@ -33,8 +33,7 @@ I have expertise in HTML, CSS, JavaScript, Redux, Tailwind, GraphQL, REST API. R
 ![](https://img.shields.io/badge/Bootstrap-UI_Framework-informational?style=flat-square&logo=bootstrap&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/NextJS-Framework-informational?style=flat-square&logo=nextdotjs&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Redux-Library-informational?style=flat-square&logo=redux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/ReactQuery-Library?style=flat-square&logo=react%20query&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/ChakraUI-Library?style=flat-squar&logo=chakra?logoColor=whiteColor=2bbc8a)
+![](https://img.shields.io/badge/ReactQuery-Library-informational?style=flat-square&logo=react%20query&logoColor=white&color=2bbc8a)
 
 #### Integrations 🪄
 ![](https://img.shields.io/badge/Stripe-Payments-informational?style=flat-square&logo=stripe&logoColor=white&color=2bbc8a)
